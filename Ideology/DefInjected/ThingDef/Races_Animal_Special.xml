@@ -7,8 +7,12 @@
   <Dryad_Barkskin.description>Dövüş sırasında darbeleri emme konusunda uzmanlaşmış bir orman perisi.Kabuklu kuru otlar, kısmen Gauranlen ağacının kendisi tarafından oluşturulan kalın, kabuğa benzer bir deri ile kaplıdır. İnsan etkisi altında, hasar emici bir savaşçı gibi davranabilir.\n\nGenel olarak, kuraklıklar, Gauranlen ağacıyla simbiyotik bir ilişkisi olan memeli benzeri yaratıklardır. Gizli bir orman perisi içeren ağaçlarıyla birlikte ürerler. Orman perileri çeşitli özel kastlara dönüşebilir.</Dryad_Barkskin.description>
   <!-- EN: left claw -->
   <Dryad_Barkskin.tools.left_claw.label>sol pençesi</Dryad_Barkskin.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Barkskin.tools.left_claw.labelNoLocation>TODO</Dryad_Barkskin.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Dryad_Barkskin.tools.right_claw.label>sağ pençesi</Dryad_Barkskin.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Barkskin.tools.right_claw.labelNoLocation>TODO</Dryad_Barkskin.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Dryad_Barkskin.tools.head.label>kafası</Dryad_Barkskin.tools.head.label>
   
@@ -19,8 +23,12 @@
   <Dryad_Basic.race.meatLabel>Orman perisi eti</Dryad_Basic.race.meatLabel>
   <!-- EN: left claw -->
   <Dryad_Basic.tools.left_claw.label>sol pençesi</Dryad_Basic.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Basic.tools.left_claw.labelNoLocation>TODO</Dryad_Basic.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Dryad_Basic.tools.right_claw.label>sağ pençesi</Dryad_Basic.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Basic.tools.right_claw.labelNoLocation>TODO</Dryad_Basic.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Dryad_Basic.tools.head.label>kafası</Dryad_Basic.tools.head.label>
   
@@ -30,8 +38,12 @@
   <Dryad_Berrymaker.description>Gıda üretiminde uzmanlaşmış bir orman perisi. Gauranlen ağacıyla birlikte bu orman otu, sürekli olarak besleyici meyveler üretebilir. Ancak, işte veya savaşta yavaştır ve etkisizdir.\n\nGenel olarak, kuraklıklar, Gauranlen ağacıyla simbiyotik bir ilişkisi olan memeli benzeri yaratıklardır. Gizli bir orman perisi içeren ağaçlarıyla birlikte ürerler. Orman perileri çeşitli özel kastlara dönüşebilir.</Dryad_Berrymaker.description>
   <!-- EN: left claw -->
   <Dryad_Berrymaker.tools.left_claw.label>sol pençesi</Dryad_Berrymaker.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Berrymaker.tools.left_claw.labelNoLocation>TODO</Dryad_Berrymaker.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Dryad_Berrymaker.tools.right_claw.label>sağ pençesi</Dryad_Berrymaker.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Berrymaker.tools.right_claw.labelNoLocation>TODO</Dryad_Berrymaker.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Dryad_Berrymaker.tools.head.label>kafası</Dryad_Berrymaker.tools.head.label>
   
@@ -41,8 +53,12 @@
   <Dryad_Carrier.description>Eşya taşımakta uzmanlaşmış bir orman perisi. İnsan etkisi altında, eşyaları gitmeleri gereken yere taşımaya yardımcı olabilir.\n\nGenel olarak, orman perileri, Gauranlen ağacıyla simbiyotik bir ilişkisi olan memeli benzeri yaratıklardır. Gizli bir orman perisi içeren ağaçlarıyla birlikte ürerler.Orman perileri çeşitli özel kastlara dönüşebilir.</Dryad_Carrier.description>
   <!-- EN: left claw -->
   <Dryad_Carrier.tools.left_claw.label>sol pençesi</Dryad_Carrier.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Carrier.tools.left_claw.labelNoLocation>TODO</Dryad_Carrier.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Dryad_Carrier.tools.right_claw.label>sağ pençesi</Dryad_Carrier.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Carrier.tools.right_claw.labelNoLocation>TODO</Dryad_Carrier.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Dryad_Carrier.tools.head.label>kafası</Dryad_Carrier.tools.head.label>
   
@@ -63,8 +79,12 @@
   <Dryad_Gaumaker.description>Yeni Gauranlen kapsülleri üretme ve ortakyaşamı Dryad kraliçesi ile birlikte Gauranlen ağacını yeniden üretme konusunda eşsiz yeteneğe sahip bir orman perisi kastı. Bunu yapmak için, üç gaumaker orman kurdunun yavaş yavaş birleşmesi gerekir.\n\nGenel olarak, orman kurusuları, Gauranlen ağacıyla simbiyotik bir ilişkisi olan memeli benzeri yaratıklardır. Gizli bir orman perisi içeren ağaçlarıyla birlikte ürerler. Orman perileri çeşitli özel kastlara dönüşebilir</Dryad_Gaumaker.description>
   <!-- EN: left claw -->
   <Dryad_Gaumaker.tools.left_claw.label>sol pençesi</Dryad_Gaumaker.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Gaumaker.tools.left_claw.labelNoLocation>TODO</Dryad_Gaumaker.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Dryad_Gaumaker.tools.right_claw.label>sağ pençesi</Dryad_Gaumaker.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Gaumaker.tools.right_claw.labelNoLocation>TODO</Dryad_Gaumaker.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Dryad_Gaumaker.tools.head.label>kafası</Dryad_Gaumaker.tools.head.label>
   
@@ -74,8 +94,12 @@
   <Dryad_Medicinemaker.description>İlaç üretiminde uzmanlaşmış bir orman perisi . Gauranlen ağacıyla birlikte bu orman perisi sürekli olarak şifalı otlar üretebilir. Ancak, işte veya savaşta yavaştır ve etkisizdir.\n\nGenel olarak, kuraklıklar, Gauranlen ağacıyla simbiyotik bir ilişkisi olan memeli benzeri yaratıklardır. Gizli bir orman perisi içeren ağaçlarıyla birlikte ürerler. Dryad'lar çeşitli özel kastlara dönüşebilir</Dryad_Medicinemaker.description>
   <!-- EN: left claw -->
   <Dryad_Medicinemaker.tools.left_claw.label>sol pençesi</Dryad_Medicinemaker.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Medicinemaker.tools.left_claw.labelNoLocation>TODO</Dryad_Medicinemaker.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Dryad_Medicinemaker.tools.right_claw.label>sağ pençesi</Dryad_Medicinemaker.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Medicinemaker.tools.right_claw.labelNoLocation>TODO</Dryad_Medicinemaker.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Dryad_Medicinemaker.tools.head.label>kafası</Dryad_Medicinemaker.tools.head.label>
   
@@ -85,8 +109,12 @@
   <Dryad_Woodmaker.description>Odun üretiminde uzmanlaşmış, yavaş, beceriksiz bir orman perisi . Gauranlen ağacıyla birlikte, bu orman perisi sürekli olarak ahşap benzeri bir malzeme üretebilir. Ancak, işte veya savaşta yavaştır ve etkisizdir.\n\nGenel olarak,  periler  Gauranlen ağacıyla simbiyotik bir ilişkisi olan memeli benzeri yaratıklardır. Gizli bir orman perisi içeren ağaçlarıyla birlikte ürerler. Orman perileri çeşitli özel kastlara dönüşebilir.</Dryad_Woodmaker.description>
   <!-- EN: left claw -->
   <Dryad_Woodmaker.tools.left_claw.label>sol pençesi</Dryad_Woodmaker.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Woodmaker.tools.left_claw.labelNoLocation>TODO</Dryad_Woodmaker.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Dryad_Woodmaker.tools.right_claw.label>sağ pençesi</Dryad_Woodmaker.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Woodmaker.tools.right_claw.labelNoLocation>TODO</Dryad_Woodmaker.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Dryad_Woodmaker.tools.head.label>kafası</Dryad_Woodmaker.tools.head.label>
   

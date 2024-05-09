@@ -16,11 +16,26 @@
   <!-- EN: drug policy -->
   <DrugPolicy.label>uyuşturucu poliçesi</DrugPolicy.label>
   
-  <!-- EN: food restriction -->
+  <!-- EN: food policy -->
   <FoodRestriction.label>yiyecek kısıtlaması</FoodRestriction.label>
   
   <!-- EN: Hostility response -->
   <HostilityResponse.headerTip>Düşmanca tepki</HostilityResponse.headerTip>
+  
+  <!-- EN: name -->
+  <Label.label>TODO</Label.label>
+  <!-- EN: Name -->
+  <Label.headerTip>TODO</Label.headerTip>
+  
+  <!-- EN: name -->
+  <LabelShortWithIcon.label>TODO</LabelShortWithIcon.label>
+  <!-- EN: Name -->
+  <LabelShortWithIcon.headerTip>TODO</LabelShortWithIcon.headerTip>
+  
+  <!-- EN: name -->
+  <LabelWithIcon.label>TODO</LabelWithIcon.label>
+  <!-- EN: Name -->
+  <LabelWithIcon.headerTip>TODO</LabelWithIcon.headerTip>
   
   <!-- EN: master -->
   <Master.label>sahip</Master.label>
@@ -28,7 +43,10 @@
   <!-- EN: Medical care -->
   <MedicalCare.headerTip>Tıbbi bakım</MedicalCare.headerTip>
   
-  <!-- EN: current outfit -->
+  <!-- EN: apparel policy -->
   <Outfit.label>mevcut kıyafet</Outfit.label>
+  
+  <!-- EN: reading policy -->
+  <Reading.label>TODO</Reading.label>
   
 </LanguageData>

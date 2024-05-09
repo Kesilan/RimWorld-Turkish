@@ -88,6 +88,8 @@
   <ChooseRoleHint>Rol atamadan önce koloninizin daha iyi kurulmasını beklemek bazen daha iyi olabilir.</ChooseRoleHint>
   <!-- EN: Unlocked by -->
   <UnlockedByMeme>tarafından açıldı</UnlockedByMeme>
+  <!-- EN: Origin -->
+  <Origin>TODO</Origin>
   <!-- EN: Unlocked roles -->
   <MemeUnlocksRoles>açılan roller</MemeUnlocksRoles>
   <!-- EN: Unlocked rituals -->
@@ -113,6 +115,8 @@
   <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort}, {ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
   <!-- EN: Trait {TRAIT} -->
   <AbilityIdeoConvertBreakdownTrait>Özellik {TRAIT}</AbilityIdeoConvertBreakdownTrait>
+  <!-- EN: Precept {PRECEPT} -->
+  <AbilityIdeoConvertBreakdownPercept>TODO</AbilityIdeoConvertBreakdownPercept>
   <!-- EN: {RELICCOUNT} installed relics on map -->
   <AbilityIdeoConvertBreakdownRelic>{RELICCOUNT} haritada yüklü kalıntı</AbilityIdeoConvertBreakdownRelic>
   <!-- EN: {PAWN_labelShort}'s social skill -->
@@ -248,8 +252,10 @@
   <ReLoadShuttle>Mekiği yeniden yükle</ReLoadShuttle>
 
   <!-- Medical settings -->
-  <!-- EN: Enslaved colonist -->
-  <MedGroupEnslavedColonist>köleleştirilmiş Kolonist</MedGroupEnslavedColonist>
+  <!-- EN: Slaves -->
+  <MedGroupSlaves>TODO</MedGroupSlaves>
+  <!-- EN: Enslaved members of your colony. -->
+  <MedGroupSlavesDesc>TODO</MedGroupSlavesDesc>
 
   <!-- Dryad upgrades -->
   <!-- EN: Choose dryad caste -->

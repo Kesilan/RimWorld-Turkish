@@ -19,20 +19,32 @@
   <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
   <CarryingCapacity.description>Bu canlının ellerinde, ağzında yada diğer organlarında/ekipmanlarında taşıyabileceği madde miktarı.\n\nBu, uzun dünyalar arası kargo taşıma yeteneğini ile aynı şey değildir.</CarryingCapacity.description>
   
-  <!-- EN: Maximum comfortable temperature -->
+  <!-- EN: max comfortable temperature -->
   <ComfyTemperatureMax.label>maksimum rahat edilebilen sıcaklık</ComfyTemperatureMax.label>
   <!-- EN: Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die. -->
   <ComfyTemperatureMax.description>Sıcaklık bunun üstüne çıkarsa karakterler mutsuz olurlar.\n\nSıcaklık bunun çok üstüne çıkarsa, güneş çarpması yaşarlar ve sonunda ölürler.</ComfyTemperatureMax.description>
   
-  <!-- EN: Minimum comfortable temperature -->
+  <!-- EN: min comfortable temperature -->
   <ComfyTemperatureMin.label>minimum rahat edilebilen sıcaklık</ComfyTemperatureMin.label>
   <!-- EN: Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
   <ComfyTemperatureMin.description>Sıcaklık bunun altına düşerse karakterler mutsuz olurlar.\n\nSıcaklık bunun çok altına düşerse, hipotermi ve donma yaşarlar ve sonunda ölürler.</ComfyTemperatureMin.description>
+  
+  <!-- EN: crawl speed -->
+  <CrawlSpeed.label>TODO</CrawlSpeed.label>
+  <!-- EN: Speed of crawling in cells per second. -->
+  <CrawlSpeed.description>TODO</CrawlSpeed.description>
+  <!-- EN: {0} c/s -->
+  <CrawlSpeed.formatString>TODO</CrawlSpeed.formatString>
   
   <!-- EN: eating speed -->
   <EatingSpeed.label>yeme hızı</EatingSpeed.label>
   <!-- EN: A multiplier on eating speed. -->
   <EatingSpeed.description>Yeme hızına etki eden bir çarpan.</EatingSpeed.description>
+  
+  <!-- EN: EMP resistance -->
+  <EMPResistance.label>EMP direnci</EMPResistance.label>
+  <!-- EN: This mechanoid has special shielding and shock-dissipation filaments that reduce the effect of EMP damage by this percentage. This reduces the duration of stuns caused by EMP. -->
+  <EMPResistance.description>Bu mekanoid, EMP hasarının etkisini bu oranda azaltan özel koruyucu ve şok dağıtan filamentlere sahiptir. Bu, EMP'nin neden olduğu sersemletmelerin süresini azaltır.</EMPResistance.description>
   
   <!-- EN: filth rate -->
   <FilthRate.label>pislik oranı</FilthRate.label>
@@ -58,6 +70,11 @@
   <InjuryHealingFactor.label>yara iyileşme faktörü</InjuryHealingFactor.label>
   <!-- EN: The multiplier applied to a person's injury healing rate. -->
   <InjuryHealingFactor.description>Bir kişinin yara iyileşme oranına uygulanan çarpan.</InjuryHealingFactor.description>
+  
+  <!-- EN: recreation fall rate -->
+  <JoyFallRateFactor.label>TODO</JoyFallRateFactor.label>
+  <!-- EN: A multiplier on the speed that a person's recreation need falls. -->
+  <JoyFallRateFactor.description>TODO</JoyFallRateFactor.description>
   
   <!-- EN: leather amount -->
   <LeatherAmount.label>deri miktarı</LeatherAmount.label>

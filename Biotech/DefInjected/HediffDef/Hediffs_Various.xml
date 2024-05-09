@@ -22,8 +22,9 @@
   <GeneticDrugNeed.description>Bu kişinin belirli bir ilaca genetik olarak indüklenen biyokimyasal bağımlılığı vardır. İlacın düzenli dozları olmadan vücutları kendini sağlıklı bir durumda tutamaz ve ölene kadar sağlıkları ve ruh halleri bozulur.\n\nYaşından sonra etkisini gösterir: 13..</GeneticDrugNeed.description>
   <!-- EN: deficiency -->
   <GeneticDrugNeed.stages.deficiency.label>yoksunluk</GeneticDrugNeed.stages.deficiency.label>
+  <GeneticDrugNeed.stages.deficiency.overrideLabel>yoksunluk koması</GeneticDrugNeed.stages.deficiency.overrideLabel>
   <!-- EN: deficiency coma -->
-  <GeneticDrugNeed.stages.2.overrideLabel>yoksunluk koması</GeneticDrugNeed.stages.2.overrideLabel>
+  <GeneticDrugNeed.stages.3.overrideLabel>TODO</GeneticDrugNeed.stages.3.overrideLabel>
   
   <!-- EN: hemogen craving -->
   <HemogenCraving.label>hemojen özlemi</HemogenCraving.label>

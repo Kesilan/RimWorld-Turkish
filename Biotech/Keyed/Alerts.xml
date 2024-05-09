@@ -34,7 +34,7 @@
 
   <!-- EN: Need mech rechargers -->
   <AlertNeedMechChargers>Mekanik şarj cihazlarına ihtiyacınız var</AlertNeedMechChargers>
-  <!-- EN: You don't have rechargers for all your mechanoids. If a mech runs out of energy, it will fall into a dormant self-charging state and will recharge very slowly.\n\nBuild more of the following chargers:\n\n{0}\n\nNote: Only light mechanoids can use regular mech rechargers. Medium or heavier mechanoids require large mech rechargers. -->
+  <!-- EN: You don't have rechargers for all your mechanoids. If a mech runs out of energy, it will fall into a dormant self-charging state and will recharge very slowly.\n\nBuild more of the following chargers:\n{0}\n\nNote: Only light mechanoids can use regular mech rechargers. Medium or heavier mechanoids require large mech rechargers. -->
   <AlertNeedMechChargersDesc>Tüm mekanoidler için şarj cihazınız yok. Bir makinenin enerjisi biterse, kendi kendini şarj etme durumuna geçer ve çok yavaş şarj olur.\n\nAşağıdaki şarj cihazlarından daha fazlasını yapın:\n\n{0}\n\nNot: Yalnızca hafif mekanoidler için normal mekanik şarj cihazları kullanın. Orta veya daha ağır mekanoidler, büyük mekanik şarj cihazları gerektirir.</AlertNeedMechChargersDesc>
   <!-- EN: Research basic mechtech or higher to build rechargers. -->
   <AlertNeedMechChargerBasicMechtech>Şarj cihazları oluşturmak için temel mektech veya daha üstünü araştırın.</AlertNeedMechChargerBasicMechtech>
@@ -54,7 +54,7 @@
   <AlertNoBabyFeederDesc>Bu bebekleri beslemek için hiçbir {FACTION_pawnsPlural} atanmadı veya hepsi öldü.\n\n{FACTION_pawnsPlural}'larınızdan birini çocuk bakımına atayın veya bebeklerin beslenme sekmesinde bu bebekleri Acil önceliğiyle beslemek için emziren bir {FACTION_pawnSingular} atayın ve en az birinin devre dışı kalmadığından emin olun.</AlertNoBabyFeederDesc>
   <!-- EN: Abandoned baby -->
   <AlertAbandonedBaby>Terk edilmiş bebek</AlertAbandonedBaby>
-  <!-- EN: There are abandoned babies nearby with no closeby caregivers.  If you don’t adopt the babies, it’s likely they'll starve to death.\n\nTo adopt a baby, select it and then select "{0}". -->
+  <!-- EN: There are abandoned babies nearby with no closeby caregivers.  If you don't adopt the babies, they'll probably starve to death.\n\nTo adopt a baby, select it and then select "{0}". -->
   <AlertAbandonedBabyDesc>Yakınlarda bakıcıları olmayan terk edilmiş bebekler var. Bebekleri evlat edinmezseniz büyük ihtimalle açlıktan ölecekler.\n\nBir bebeği evlat edinmek için onu seçin ve ardından "{0}" seçeneğini seçin.</AlertAbandonedBabyDesc>
 
   <!-- EN: No baby food in caravan -->

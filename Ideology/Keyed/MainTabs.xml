@@ -46,6 +46,8 @@
   <Prohibitions>yasaklar</Prohibitions>
   <!-- EN: Opinions -->
   <Opinions>fikirler</Opinions>
+  <!-- EN: Mental breaks -->
+  <MentalBreaks>TODO</MentalBreaks>
   <!-- EN: Randomize name -->
   <RandomizeName>adı rastgele yap</RandomizeName>
   <!-- EN: Randomize precepts -->
@@ -118,6 +120,8 @@
   <IdeoCharityQuestInfo>Bu bir hayır işidir. Bunu yerine getirmezseniz, {0}'e inananlar hayırsever inançlarından dolayı mutsuz olacaklardır. Bunu yaparsanız, {0}'e inananlar mutlu olacaktır ({1}).</IdeoCharityQuestInfo>
   <!-- EN: Slaves will not do this work -->
   <WorkDisabledSlave>Köleler bu işi yapmayacak</WorkDisabledSlave>
+  <!-- EN: Disabled by health condition -->
+  <WorkDisabledHealth>TODO</WorkDisabledHealth>
   <!-- EN: Disabled by {0} role -->
   <WorkDisabledRole>{0} rolü tarafından devre dışı bırakıldı</WorkDisabledRole>
   <!-- EN: Affected by traits -->

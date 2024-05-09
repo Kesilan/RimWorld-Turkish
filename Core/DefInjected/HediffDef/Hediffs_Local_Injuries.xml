@@ -1,6 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: acid burn -->
+  <AcidBurn.label>asit yanığı</AcidBurn.label>
+  <!-- EN: An acid burn. -->
+  <AcidBurn.description>bir asit yanığı.</AcidBurn.description>
+  <!-- EN: acid burn scar -->
+  <AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>asit yanığı yara izi</AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Dissolved off -->
+  <AcidBurn.injuryProps.destroyedLabel>çözünük</AcidBurn.injuryProps.destroyedLabel>
+  <!-- EN: an acid burn -->
+  <AcidBurn.labelNoun>bir asit yanığı</AcidBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <AcidBurn.labelNounPretty>bir asit yanığı ({1})</AcidBurn.labelNounPretty>
+  
   <!-- EN: bite -->
   <Bite.label>ısırık</Bite.label>
   <!-- EN: A bite wound. -->
@@ -135,6 +148,30 @@
   <!-- EN: {0} in the {1} -->
   <Cut.labelNounPretty>kesilmiş ({1}) vücut parçası</Cut.labelNounPretty>
   
+  <!-- EN: decayed organ -->
+  <Decayed.label>TODO</Decayed.label>
+  <!-- EN: This organ has completely decayed. -->
+  <Decayed.description>TODO</Decayed.description>
+  <!-- EN: a decayed organ -->
+  <Decayed.labelNoun>TODO</Decayed.labelNoun>
+  <!-- EN: decayed {1} -->
+  <Decayed.labelNounPretty>TODO</Decayed.labelNounPretty>
+  
+  <!-- EN: electrical burn -->
+  <ElectricalBurn.label>TODO</ElectricalBurn.label>
+  <!-- EN: An electical burn. -->
+  <ElectricalBurn.description>TODO</ElectricalBurn.description>
+  <!-- EN: electrical burn scar -->
+  <ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>TODO</ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off -->
+  <ElectricalBurn.injuryProps.destroyedLabel>TODO</ElectricalBurn.injuryProps.destroyedLabel>
+  <!-- EN: Burned out -->
+  <ElectricalBurn.injuryProps.destroyedOutLabel>TODO</ElectricalBurn.injuryProps.destroyedOutLabel>
+  <!-- EN: an electrical burn -->
+  <ElectricalBurn.labelNoun>TODO</ElectricalBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <ElectricalBurn.labelNounPretty>TODO</ElectricalBurn.labelNounPretty>
+  
   <!-- EN: cut -->
   <ExecutionCut.label>kesik</ExecutionCut.label>
   <!-- EN: A cut made during execution. -->
@@ -189,9 +226,9 @@
   <!-- EN: {0} in the {1} -->
   <Gunshot.labelNounPretty>({1}) vücut parçasındaki kurşun yarası</Gunshot.labelNounPretty>
   
-  <!-- EN: misc -->
+  <!-- EN: wound -->
   <Misc.label>çeşitli</Misc.label>
-  <!-- EN: Miscellanous injuries. -->
+  <!-- EN: Miscellaneous injuries. -->
   <Misc.description>Çeşitli yaralanmalar.</Misc.description>
   <!-- EN: set -->
   <Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>tedavi edilmiş</Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>

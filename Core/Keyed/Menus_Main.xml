@@ -642,6 +642,8 @@
   <IncapableOfTooltipRole>Rol nedeniyle: {0}</IncapableOfTooltipRole>
   <!-- EN: Caused by gene -->
   <IncapableOfTooltipGene>Genin neden olduğu</IncapableOfTooltipGene>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipMutant>TODO</IncapableOfTooltipMutant>
   <!-- EN: Traits -->
   <Traits>Kişisel özellikler</Traits>
   <!-- EN: Permanent mood effect -->
@@ -678,7 +680,7 @@
   <StartingPawnsSelected>Seçilmiş</StartingPawnsSelected>
   <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>Arkada Bırakılan</StartingPawnsLeftBehind>
-  <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
+  <!-- EN: This person is considered guilty. Others won't be bothered if you banish, execute or arrest them.\n\nGuilt expires in -->
   <GuiltyDesc>Bu kolonist suçlu olarak kabul edilir. Onları özgürce sürgün edebilir, idam edebilir veya tutuklayabilirsiniz; diğerleri rahatsız olmaz.\n\nSuçluluk süresi şu zaman içinde sona erer</GuiltyDesc>
   
   <!-- Misc -->

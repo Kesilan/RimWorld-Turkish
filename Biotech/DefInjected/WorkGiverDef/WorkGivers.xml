@@ -29,14 +29,14 @@
   <!-- EN: get mother to breastfeed -->
   <CarryToBreastfeed.verb>annenin emzirmesini sağla</CarryToBreastfeed.verb>
   
-  <!-- EN: carry to building -->
+  <!-- EN: carry to gene extractor -->
   <CarryToGeneExtractor.label>gen çıkarmaya taşı</CarryToGeneExtractor.label>
   <!-- EN: extracting genes from -->
   <CarryToGeneExtractor.gerund>genleri çıkar</CarryToGeneExtractor.gerund>
   <!-- EN: extract genes -->
   <CarryToGeneExtractor.verb>genleri çıkar</CarryToGeneExtractor.verb>
   
-  <!-- EN: carry to building -->
+  <!-- EN: carry to growth vat -->
   <CarryToGrowthVat.label>küvöze taşı</CarryToGrowthVat.label>
   <!-- EN: growing -->
   <CarryToGrowthVat.gerund>küvöze</CarryToGrowthVat.gerund>

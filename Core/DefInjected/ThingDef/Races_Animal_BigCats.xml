@@ -7,8 +7,12 @@
   <Cougar.description>Büyük kedilerin en tehlikelilerinden biri, pumalar uzun, keskin dişleri ve pençesileri olan yalnız avcılardır. Saldırmadan önce gizli konumlardan avlarını takip ederler.\n\nİnsanlar normalde yediklerinden olmasa da, savunmasız insan eti yemeklerini geri çevirmezler.</Cougar.description>
   <!-- EN: left claw -->
   <Cougar.tools.left_claw.label>sol pençesi</Cougar.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Cougar.tools.left_claw.labelNoLocation>TODO</Cougar.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Cougar.tools.right_claw.label>sağ pençesi</Cougar.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Cougar.tools.right_claw.labelNoLocation>TODO</Cougar.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Cougar.tools.head.label>kafası</Cougar.tools.head.label>
   
@@ -18,8 +22,12 @@
   <Lynx.description>Bir ev kedisinden daha büyük, ancak bir pumadan daha küçük bir yaban kedisi. Vaşaklar küçük kuşları ve hayvanları yiyerek hayatta kalır. Çok sıcak tutan kürkleri onları kuzey bölgelerindeki acımasız soğuktan korur.</Lynx.description>
   <!-- EN: left claw -->
   <Lynx.tools.left_claw.label>sol pençesi</Lynx.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Lynx.tools.left_claw.labelNoLocation>TODO</Lynx.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Lynx.tools.right_claw.label>sağ pençesi</Lynx.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Lynx.tools.right_claw.labelNoLocation>TODO</Lynx.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Lynx.tools.head.label>kafası</Lynx.tools.head.label>
   
@@ -29,8 +37,12 @@
   <Panther.description>Eski Dünya'nın ormanlarına özgü çevik ve güçlü büyük bir kedi. Yalnız pusu kuran avcılar olarak panterler, hem büyük hem de küçük avları yıkmanın ustalarıdır. Seyirciler zarif hareketlerine odaklanma eğilimindeyken, daha yakın temasta olanlar genellikle kafasıtasının ezici gücünü fark ederler.</Panther.description>
   <!-- EN: left claw -->
   <Panther.tools.left_claw.label>sol pençesi</Panther.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Panther.tools.left_claw.labelNoLocation>TODO</Panther.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Panther.tools.right_claw.label>sağ pençesi</Panther.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Panther.tools.right_claw.labelNoLocation>TODO</Panther.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Panther.tools.head.label>kafası</Panther.tools.head.label>
   

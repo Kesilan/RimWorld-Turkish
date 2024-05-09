@@ -29,6 +29,8 @@
   <DeleteCustom>Özel sil</DeleteCustom>
   <!-- EN: Create new -->
   <CreateNew>Yeni oluştur</CreateNew>
+  <!-- EN: Create fluid -->
+  <CreateFluid>TODO</CreateFluid>
   <!-- EN: Load existing -->
   <LoadExisting>Mevcut yükle</LoadExisting>
   <!-- EN: Create custom ideoligion -->
@@ -99,6 +101,10 @@
   <SetIdeoColor>İdeo rengini ayarla</SetIdeoColor>
   <!-- EN: Set to favorite color -->
   <SetFavoriteColor>Favori rengi ayarla</SetFavoriteColor>
+  <!-- EN: {PAWN_nameDef}’s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier. -->
+  <FavoriteColorPickerTip>TODO</FavoriteColorPickerTip>
+  <!-- EN: {PAWN_nameDef}’s ideoligion color. Having more than 60% of {PAWN_possessive} apparel in this color, or {PAWN_possessive} favorite color, will make {PAWN_objective} slightly happier. -->
+  <IdeoColorPickerTip>TODO</IdeoColorPickerTip>
   <!-- EN: Configure your faction's ideoligion -->
   <ConfigureIdeoligion>Tarafınızın ideolojisini yapılandırın</ConfigureIdeoligion>
   <!-- EN: Not enough dye. -->
@@ -292,8 +298,6 @@
 
   <!-- EN: For slave use -->
   <ForSlaveUse>Köle kullanımı için</ForSlaveUse>
-  <!-- EN: Slave -->
-  <Slave>köle</Slave>
   <!-- EN: If you sell someone to any faction besides their own, they become slaves. -->
   <SellingAsSlave>Birini kendi grupları dışında herhangi bir gruba satarsanız, köle olurlar.</SellingAsSlave>
   <!-- EN: If you sell someone to their own faction, they are ransomed and not enslaved. -->
@@ -388,7 +392,7 @@
 
   <!-- EN: Relic info found -->
   <RelicInfoFound>Kutsal emanet kalıntı bilgisi bulundu</RelicInfoFound>
-  <!-- EN: inactive, requires atleast {0} {1}s (have {2}) -->
+  <!-- EN: inactive, requires at least {0} {1}s (have {2}) -->
   <InactiveRoleRequiresMoreBelievers>etkin değil, en az {0} {1}s gerektirir ({2} var)</InactiveRoleRequiresMoreBelievers>
   
   <!-- EN: certainty -->

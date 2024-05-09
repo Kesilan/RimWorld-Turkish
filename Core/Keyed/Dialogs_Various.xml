@@ -201,6 +201,10 @@
   <LastName>soyad</LastName>
   <!-- EN: suggested -->
   <Suggested>önerildi</Suggested>
+  
+  <!-- Choose new wanderers -->
+  <!-- EN: Choose new wanderers -->
+  <ChooseNewWanderers>TODO</ChooseNewWanderers>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
@@ -289,7 +293,7 @@
   <CountingProducts>Sayılıyor</CountingProducts>
   <!-- EN: Infinite -->
   <Infinite>Sonsuz</Infinite>
-  <!-- EN: Allowed {0} skill: -->
+  <!-- EN: Allowed {0} skill -->
   <AllowedSkillRange>İzin verilen {0} beceri:</AllowedSkillRange>
   <!-- EN: incompatible -->
   <IncompatibleLower>uyumsuz</IncompatibleLower>
@@ -321,7 +325,7 @@
   <PauseWhenSatisfied>Koşul karşılandığında duraklat</PauseWhenSatisfied>
   <!-- EN: Unpause at -->
   <UnpauseWhenYouHave>Duraklatmayı iptal et</UnpauseWhenYouHave>
-  <!-- EN: Paused -->
+  <!-- EN: paused -->
   <Paused>Duraklatıldı</Paused>
   <!-- EN: Unpause -->
   <Unpause>Devam ettir</Unpause>
@@ -336,6 +340,12 @@
   <IncludeFromAll>Her yere bak</IncludeFromAll>
   <!-- EN: Look in {0} -->
   <IncludeSpecific>{0}'ın içinde ara</IncludeSpecific>
+  <!-- EN: Stockpiles -->
+  <StockpilePlural>TODO</StockpilePlural>
+  <!-- EN: Shelves -->
+  <ShelfPlural>TODO</ShelfPlural>
+  <!-- EN: Groups -->
+  <GroupPlural>TODO</GroupPlural>
   
   <!-- Info card -->
   <!-- EN: Damage -->
@@ -402,7 +412,7 @@
   <MinGrowthTemperature>Min yetişme sıcaklığı</MinGrowthTemperature>
   <!-- EN: Max growth temperature -->
   <MaxGrowthTemperature>Maks yetişme sıcaklığı</MaxGrowthTemperature>
-  <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
+  <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\n\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
   <GrowingTimeDesc>Bitkiler sadece günün bir kısmında ve aydınlatıldığında büyür.\n\nBu nitelik, bitkinin tam boyuta ulaşmak için harcadığı zamanı ölçer.\nGerçek yetişme süresi genellikle yaklaşık iki kat daha uzun olur.\nAyrıca düşük sıcaklıklar yetişme hızını yavaşlatır.</GrowingTimeDesc>
   <!-- EN: days -->
   <Days>gün</Days>
@@ -516,6 +526,8 @@
   <PerDay>{0} / gün</PerDay>
   <!-- EN: {0} / hour -->
   <PerHour>{0} / saat</PerHour>
+  <!-- EN: {0} XP / hour -->
+  <XpPerHour>TODO</XpPerHour>
   <!-- EN: Pack animal -->
   <PackAnimal>Yük hayvanı</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
@@ -598,6 +610,8 @@
   <MeditationFocusEnabledByAdulthood>yetişkinliği</MeditationFocusEnabledByAdulthood>
   <!-- EN: has trait -->
   <MeditationFocusEnabledByTrait>kişisel özellikleri</MeditationFocusEnabledByTrait>
+  <!-- EN: has health condition -->
+  <MeditationFocusEnabledByHediff>TODO</MeditationFocusEnabledByHediff> 
   <!-- EN: does not have trait -->
   <MeditationFocusDisabledByTrait>kişisel özellikleri yok</MeditationFocusDisabledByTrait>
   <!-- EN: Enables meditation focus types -->
@@ -698,6 +712,14 @@
   <NextTraderRestock>Sonraki yeniden stoklama: {0} gün</NextTraderRestock>
   <!-- EN: Creatures -->
   <PawnsTabShort>Canlılar</PawnsTabShort>
+  
+  <!-- Select caravan settlement -->
+  <!-- EN: Select colony to send caravan -->
+  <SelectCaravanOrigin>TODO</SelectCaravanOrigin> 
+  <!-- EN: Send a caravan from {0}. -->
+  <SelectCaravanDesc>TODO</SelectCaravanDesc> 
+  <!-- EN: Colonists -->
+  <SelectCaravanColonists>TODO</SelectCaravanColonists>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
@@ -894,6 +916,8 @@
   <ResearchFinished>Araştırma tamamlandı: {0}</ResearchFinished>
   <!-- EN: Research Screen -->
   <ResearchScreen>Araştırma Ekranı</ResearchScreen>
+  <!-- EN: By researching {0} you have discovered the {1} research project. -->
+  <ResearchUnknownProjectRevealed>TODO</ResearchUnknownProjectRevealed>
   
   <!--HistoryUpload-->
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
@@ -909,41 +933,53 @@
   <!-- EN: Do not upload this time, ask me later -->
   <HistoryUploadNoOnce>Bu sefer yükleme, daha sonra sor</HistoryUploadNoOnce>
   
+  <!-- Policies -->
+  <!-- EN: Available policies -->
+  <AvailablePolicies>TODO</AvailablePolicies>
+  <!-- EN: Unnamed -->
+  <UnnamedPolicy>TODO</UnnamedPolicy>
+  <!-- EN: New... -->
+  <NewPolicy>TODO</NewPolicy>
+  <!-- EN: Invalid policy name -->
+  <InvalidName>TODO</InvalidName>
+  <!-- EN: Delete the selected policy. -->
+  <DeletePolicyTip>TODO</DeletePolicyTip>
+  <!-- EN: Create a duplicate of the selected policy. -->
+  <DuplicatePolicyTip>TODO</DuplicatePolicyTip>
+  <!-- EN: Rename this policy. -->
+  <RenamePolicyTip>TODO</RenamePolicyTip>
+  <!-- EN: Are you sure you want to delete the policy: {0}? -->
+  <DeletePolicyConfirm>TODO</DeletePolicyConfirm>
+  <!-- EN: Delete -->
+  <DeletePolicyConfirmButton>TODO</DeletePolicyConfirmButton>
+  <!-- EN: No policy selected -->
+  <NoPolicySelected>TODO</NoPolicySelected>
+  
   <!-- Outfit management -->
-  <!-- EN: Outfit -->
-  <Outfit>Giyim</Outfit>
-  <!-- EN: Select outfit... -->
-  <SelectOutfit>Giyim seç...</SelectOutfit>
-  <!-- EN: New outfit -->
-  <NewOutfit>Yeni giyim</NewOutfit>
-  <!-- EN: Delete outfit... -->
-  <DeleteOutfit>Giyimi sil...</DeleteOutfit>
-  <!-- EN: Outfit is in use by {0}. -->
+  <!-- EN: Apparel policies -->
+  <ApparelPolicyTitle>TODO</ApparelPolicyTitle>
+  <!-- EN: Create and manage templates for controlling what apparel items colony members can wear. -->
+  <ApparelPolicyTip>TODO</ApparelPolicyTip>
+  <!-- EN: Apparel policy -->
+  <ApparelPolicy>TODO</ApparelPolicy>
+  <!-- EN: Apparel policy is in use by {0}. -->
   <OutfitInUse>Giyim {0} tarafından kullanılıyor.</OutfitInUse>
-  <!-- EN: No outfit selected -->
-  <NoOutfitSelected>Seçili giyim yok</NoOutfitSelected>
   
   <!-- Drug policy management -->
+  <!-- EN: Drug policies -->
+  <DrugPolicyTitle>TODO</DrugPolicyTitle>
+  <!-- EN: Create and manage templates for controlling which drugs your colonists are allowed to consume. -->
+  <DrugPolicyTip>TODO</DrugPolicyTip>
   <!-- EN: Drug policy -->
   <DrugPolicy>Uyuşturucu poliçesi</DrugPolicy>
-  <!-- EN: Select policy... -->
-  <SelectDrugPolicy>Poliçe seç...</SelectDrugPolicy>
-  <!-- EN: New policy -->
-  <NewDrugPolicy>Yeni poliçe</NewDrugPolicy>
-  <!-- EN: Delete policy... -->
-  <DeleteDrugPolicy>Poliçeyi sil...</DeleteDrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
   <DrugPolicyInUse>Uyuşturucu poliçesi {0} tarafından kullanılıyor.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
   <FoodRestrictionInUse>Gıda kısıtlaması {0} tarafından kullanılıyor</FoodRestrictionInUse>
-  <!-- EN: No drug policy selected -->
-  <NoDrugPolicySelected>Hiçbir uyuşturucu poliçesi seçilmemiş</NoDrugPolicySelected>
   <!-- EN: Add drug... -->
   <AddDrug>Uyuşturucu ekle...</AddDrug>
   <!-- EN: Drug -->
   <DrugColumnLabel>Uyuşturucu</DrugColumnLabel>
-  <!-- EN: Usage -->
-  <DrugUsageColumnLabel>Kullanım</DrugUsageColumnLabel>
   <!-- EN: Frequency -->
   <FrequencyColumnLabel>Sıklık</FrequencyColumnLabel>
   <!-- EN: Only if mood below -->
@@ -966,8 +1002,6 @@
   <DeleteDrugTooltip>Bu uyuşturucuyu sil.</DeleteDrugTooltip>
   <!-- EN: The name of a drug. -->
   <DrugNameColumnDesc>Uyuşturucunun adı.</DrugNameColumnDesc>
-  <!-- EN: How the drug is allowed to be used. -->
-  <DrugUsageColumnDesc>Uyuşturucun kullanımına nasıl izin verildiği.</DrugUsageColumnDesc>
   <!-- EN: How often the colonists should try to take this drug. -->
   <FrequencyColumnDesc>Kolonistlerin bu uyuşturucuyu ne sıklıkta alması gerektiği.</FrequencyColumnDesc>
   <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
@@ -984,10 +1018,14 @@
   <DrugUsageTipScheduled>Zamanlanmış\n\nBu uyuşturucuyu belirli koşullar karşılandığında belirli bir programda kullan.</DrugUsageTipScheduled>
 
   <!-- Food restriction management -->
-  <!-- EN: Food restriction -->
-  <FoodRestriction>Gıda kısıtlaması</FoodRestriction>
-  <!-- EN: Food -->
-  <FoodRestrictionShort>yemek</FoodRestrictionShort>
+  <!-- EN: Food policies -->
+  <FoodPolicyTitle>TODO</FoodPolicyTitle>
+  <!-- EN: Create and manage templates for controlling what food items colony members can eat. -->
+  <FoodPolicyTip>TODO</FoodPolicyTip>
+  <!-- EN: Food policy -->
+  <FoodPolicy>TODO</FoodPolicy>
+  <!-- EN: Allow food -->
+  <AllowFood>TODO</AllowFood>
   <!-- EN: Lavish -->
   <FoodRestrictionLavish>Lüks</FoodRestrictionLavish>
   <!-- EN: Fine -->
@@ -1000,33 +1038,77 @@
   <FoodRestrictionRaw>Çiğ</FoodRestrictionRaw>
   <!-- EN: Nothing -->
   <FoodRestrictionNothing>Hiçbir şey</FoodRestrictionNothing>
-  <!-- EN: Select food restriction -->
-  <SelectFoodRestriction>Gıda kısıtlaması seç</SelectFoodRestriction>
-  <!-- EN: New food restriction -->
-  <NewFoodRestriction>Yeni gıda kısıtlaması</NewFoodRestriction>
-  <!-- EN: Delete food restriction -->
-  <DeleteFoodRestriction>Gıda kısıtlamasını sil</DeleteFoodRestriction>
-  <!-- EN: No food restriction selected -->
-  <NoFoodRestrictionSelected>Hiçbir gıda kısıtlaması seçilmemiş</NoFoodRestrictionSelected>
+  
+  <!-- Reading management -->
+  <!-- EN: Reading policies -->
+  <ReadingPolicyTitle>TODO</ReadingPolicyTitle>
+  <!-- EN: Create and manage templates for controlling which books colony members are allowed to read. -->
+  <ReadingPolicyTip>TODO</ReadingPolicyTip>
+  <!-- EN: Reading policy -->
+  <ReadingPolicy>TODO</ReadingPolicy>
+  <!-- EN: Reading policy is in use. -->
+  <ReadingPolicyInUse>TODO</ReadingPolicyInUse>
+
+  <!-- EN: Anything -->
+  <AllReadingPolicy>TODO</AllReadingPolicy>
+  <!-- EN: None -->
+  <NoneReadingPolicy>TODO</NoneReadingPolicy>
+  <!-- EN: Textbooks -->
+  <TextbookPolicy>TODO</TextbookPolicy>
+  <!-- EN: Schematics -->
+  <SchematicPolicy>TODO</SchematicPolicy>
+  <!-- EN: Novels -->
+  <NovelPolicy>TODO</NovelPolicy>
 
   <!-- Medical settings -->
   <!-- EN: Default medicine settings -->
   <DefaultMedicineSettings>Varsayılan ilaç ayarları</DefaultMedicineSettings>
+  <!-- EN: These medical settings are assigned to creatures when they first join a given group. You can manually assign a setting to an individual in their health tab.\n\nNote: If the creature joins a new group, they will always take the settings of that group, even if you previously assigned them a setting. -->
+  <DefaultMedicineSettingsDesc>TODO</DefaultMedicineSettingsDesc>
+  
   <!-- EN: Defaults -->
   <MedGroupDefaults>Varsayılan</MedGroupDefaults>
-  <!-- EN: Colonist -->
-  <MedGroupColonist>Kolonistler</MedGroupColonist>
-  <!-- EN: Imprisoned colonist -->
-  <MedGroupImprisonedColonist>Hapsedilmiş kolonistler</MedGroupImprisonedColonist>
-  <!-- EN: Colony animal -->
-  <MedGroupColonyAnimal>Koloni hayvanı</MedGroupColonyAnimal>
-  <!-- EN: Neutral animal -->
-  <MedGroupNeutralAnimal>Tarafsız hayvan</MedGroupNeutralAnimal>
-  <!-- EN: Neutral faction -->
-  <MedGroupNeutralFaction>Tarafsız fraksiyon</MedGroupNeutralFaction>
-  <!-- EN: Hostile faction -->
-  <MedGroupHostileFaction>Düşman fraksiyon</MedGroupHostileFaction>
   
+  <!-- EN: Colonists -->
+  <MedGroupColonists>TODO</MedGroupColonists>
+  <!-- EN: Free members of your colony -->
+  <MedGroupColonistsDesc>TODO</MedGroupColonistsDesc>
+  
+  <!-- EN: Prisoners -->
+  <MedGroupPrisoners>TODO</MedGroupPrisoners>
+  <!-- EN: Prisoners in your colony, regardless of faction. -->
+  <MedGroupPrisonersDesc>TODO</MedGroupPrisonersDesc>
+
+  <!-- EN: Tamed animals -->
+  <MedGroupTamedAnimals>TODO</MedGroupTamedAnimals>
+  <!-- EN: Animals which have been tamed by your colony. -->
+  <MedGroupTamedAnimalsDesc>TODO</MedGroupTamedAnimalsDesc>
+
+  <!-- EN: Friendly faction members -->
+  <MedGroupFriendlyFaction>TODO</MedGroupFriendlyFaction>
+  <!-- EN: Humans or animals who are part of a faction which is friendly with your faction (goodwill above 75). -->
+  <MedGroupFriendlyFactionDesc>TODO</MedGroupFriendlyFactionDesc>
+  
+  <!-- EN: Neutral faction members -->
+  <MedGroupNeutralFaction>Tarafsız fraksiyon</MedGroupNeutralFaction>
+  <!-- EN: Humans or animals who are part of a faction which is neutral with your faction (between -75 and 75 goodwill). -->
+  <MedGroupNeutralFactionDesc>TODO</MedGroupNeutralFactionDesc>
+
+  <!-- EN: Hostile faction members -->
+  <MedGroupHostileFaction>Düşman fraksiyon</MedGroupHostileFaction>
+  <!-- EN: Humans or animals who are part of a faction which is hostile with your faction (goodwill below -75). -->
+  <MedGroupHostileFactionDesc>TODO</MedGroupHostileFactionDesc>
+
+  <!-- EN: Other humans -->
+  <MedGroupNoFaction>TODO</MedGroupNoFaction>
+  <!-- EN: Humans who are not members of any faction. -->
+  <MedGroupNoFactionDesc>TODO</MedGroupNoFactionDesc>
+  
+  <!-- EN: Wildlife -->
+  <MedGroupWildlife>TODO</MedGroupWildlife>
+  <!-- EN: Animals and other creatures which are not members of any faction. -->
+  <MedGroupWildlifeDesc>TODO</MedGroupWildlifeDesc>
+
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
   <NoGrowerCanPlant>{0}, {1} Tarım becerisi gerektirir.\n\nHiçbir çiftçinde bu beceri yok, bu nedenle bu bitki ekilmeyecek.</NoGrowerCanPlant>
@@ -1122,6 +1204,8 @@
   <AbilityCantApplyDowned>{0_labelShort} düştü.</AbilityCantApplyDowned>
   <!-- EN: Cannot use: {0} is asexual. -->
   <AbilityCantApplyOnAsexual>Kullanamıyor: {0} aseksüel.</AbilityCantApplyOnAsexual>
+  <!-- EN: {PAWN_labelShort} has no healable injuries. -->
+  <AbilityCannotCastNoHealableInjury>TODO</AbilityCannotCastNoHealableInjury>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
   <AbilityCantApplyWrongAttractionGender>{1_labelShort} {0_labelShort} için yanlış cinsiyette.</AbilityCantApplyWrongAttractionGender>
   <!-- EN: {0_labelShort} is too young. -->
@@ -1321,5 +1405,19 @@
   <ToggleDarklightOnDesc>Açık rengi koyu ton olarak değiştirin.</ToggleDarklightOnDesc>
   <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
   <ColorTemperatureTooltip>Renk sıcaklığını ayarlayarak bir renk seçin. Not: Bu, ısı çıkışını değil, yalnızca görsel rengi etkiler.</ColorTemperatureTooltip>
+
+  <!-- EN: {0_labelShort} is psychically deaf. -->
+  <CannotShootPawnIsPsychicallyDeaf>TODO</CannotShootPawnIsPsychicallyDeaf>
+
+  <!-- EN: Search the current map. -->
+  <SearchTheMap>TODO</SearchTheMap>
+  <!-- EN: Search the current map for items, buildings, people, animals, plants, and more. -->
+  <SearchTheMapDesc>TODO</SearchTheMapDesc>
+  <!-- EN: {0} results found -->
+  <MapSearchResults>TODO</MapSearchResults>
+  <!-- EN: 1 result found -->
+  <MapSearchResultSingular>TODO</MapSearchResultSingular>
+  <!-- EN: Searching -->
+  <Searching>TODO</Searching>
 
 </LanguageData>

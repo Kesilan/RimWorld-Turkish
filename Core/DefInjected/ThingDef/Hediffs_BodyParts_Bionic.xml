@@ -21,6 +21,11 @@
   <!-- EN: An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
   <BionicHeart.description>Gelişmiş bir yapay kalp. Gerçekçi bir kalp atışı için sentetik kas liflerine ve yüksek stres sırasında hızlı dolaşım için yüksek akışlı bir pompaya sahiptir. Neredeyse her yönden biyolojik bir kalpten daha iyidir.</BionicHeart.description>
   
+  <!-- EN: bionic jaw -->
+  <BionicJaw.label>TODO</BionicJaw.label>
+  <!-- EN: An artificial jaw replacement. Made out of biosynthetic bone, with plasteel tooth replacements and a set of micro servomotors for the full range of motion. -->
+  <BionicJaw.description>TODO</BionicJaw.description>
+  
   <!-- EN: bionic leg -->
   <BionicLeg.label>Biyonik Bacak</BionicLeg.label>
   <!-- EN: An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
@@ -33,7 +38,7 @@
   
   <!-- EN: bionic stomach -->
   <BionicStomach.label>biyonik mide</BionicStomach.label>
-  <!-- EN: An advanced artificial stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way. -->
+  <!-- EN: An advanced artificial stomach with sensors and chemical synthesizers that efficiently digest nearly any energy-bearing foodstuff. A person with this has a much lower chance of getting food poisoning, and is immune to some stomach diseases. An integrated lattice-dust healing system automatically repairs any damage to the artificial organ. It is better than a biological stomach in almost every way. -->
   <BionicStomach.description>Gelişmiş bir yapay mide. Bir dizi sensör ve kimyasal sentezleyici, neredeyse tüm enerji taşıyan gıda maddelerini verimli bir şekilde sindirir. Entegre bir kafes-toz iyileştirme sistemi, güçlü asitlerin neden olduğu her türlü hasarı otomatik olarak onarır. Neredeyse her yönden biyolojik bir mideden daha iyidir.</BionicStomach.description>
   
   <!-- EN: bionic tongue -->

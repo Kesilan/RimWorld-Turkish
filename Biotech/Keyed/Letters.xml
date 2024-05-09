@@ -34,9 +34,9 @@
   <!-- EN: You can now build a {PARENT_label} which a mechanitor can use to summon a {LEADER_label}. If you defeat the {LEADER_label}, it will drop the following items:\n\n{REWARDSLIST} -->
   <LetterBossgroupCallerUnlocked>Artık bir mekanitörün bir {LEADER_label} çağırmak için kullanabileceği bir {PARENT_label} oluşturabilirsin. {LEADER_label} etiketini yenersen, aşağıdaki öğeler düşer:\n\n{REWARDSLIST}</LetterBossgroupCallerUnlocked>
 
-  <!-- EN: {0_nameDef}'s mechlink available -->
-  <LetterLabelMechanitorCasketOpened>{0_nameDef}'in mekanik bağlantısı mevcut</LetterLabelMechanitorCasketOpened>
-  <!-- EN: You have found the corpse of an ancient mechanitor!\n\nExtract {0_possessive} mechlink by selecting a colonist and right-clicking the corpse. -->
+  <!-- EN: {PAWN_nameDef}'s mechlink available -->
+  <LetterLabelMechanitorCasketOpened>{PAWN_nameDef}'in mekanik bağlantısı mevcut</LetterLabelMechanitorCasketOpened>
+  <!-- EN: You have found the corpse of an ancient mechanitor!\n\nExtract {PAWN_possessive} mechlink by selecting a colonist and right-clicking the corpse. -->
   <LetterMechanitorCasketOpened>Kadim bir mekanitörün cesedini buldun!\n\nBir kolonisti seçip cesede sağ tıklayarak mekanik bağlantısını çıkar.</LetterMechanitorCasketOpened>
   <!-- EN: Mechanitor casket found -->
   <LetterLabelMechanitorCasketFound>Mekanitör tabutu bulundu</LetterLabelMechanitorCasketFound>

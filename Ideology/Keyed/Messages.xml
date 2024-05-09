@@ -78,8 +78,10 @@
   <MessageCharityEventFulfilled>sadaka yerine getirildi</MessageCharityEventFulfilled>
   <!-- EN: {0} are leaving empty-handed. -->
   <MessageBeggarsLeavingWithNoItems>{0} eli boş gidiyor.</MessageBeggarsLeavingWithNoItems>
+  <!-- EN: The {0} has accepted the requested items and is leaving. -->
+  <MessageBeggarsLeavingWithItemsSingular>TODO</MessageBeggarsLeavingWithItemsSingular>
   <!-- EN: {0} have accepted the requested items and are leaving. -->
-  <MessageBeggarsLeavingWithItems>{0} istenen öğelerle ayrılıyor.</MessageBeggarsLeavingWithItems>
+  <MessageBeggarsLeavingWithItemsPlural>TODO</MessageBeggarsLeavingWithItemsPlural>
   <!-- EN: {0_nameDef} died without any treatment. -->
   <MessageWandererLeftToDie>{0_nameDef} herhangi bir tedavi görmeden öldü.</MessageWandererLeftToDie>
   <!-- EN: {0_nameDef} was recruited. -->
@@ -151,5 +153,8 @@
   <MessageDevelopmentPointsEarned>Geliştirme noktaları {0} iken {1} ({2}) olarak değiştirildi.</MessageDevelopmentPointsEarned>
   <!-- EN: Only one change to structures, memes and styles is allowed. -->
   <MessageFluidIdeoOneChangeAllowed>Yapılarda, memlerde ve stillerde yalnızca bir değişikliğe izin verilir.</MessageFluidIdeoOneChangeAllowed>
+
+  <!-- UNUSED -->
+  <MessageBeggarsLeavingWithItems>{0} istenen öğelerle ayrılıyor.</MessageBeggarsLeavingWithItems>
 
 </LanguageData>

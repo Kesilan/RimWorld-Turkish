@@ -7,7 +7,11 @@
   <Mech_Tunneler.description>Tehlikeli yerlerde madencilik yapmak için yapılmış ağır bir mekanoid. Kazı için tasarlanmış olsa da, tünelcinin devasa güçlü pençeleri ve ultra kalın zırhı, onu savaşta tehlikeli bir güç haline getiriyor.</Mech_Tunneler.description>
   <!-- EN: left power claw -->
   <Mech_Tunneler.tools.left_power_claw.label>sol güç pençesi</Mech_Tunneler.tools.left_power_claw.label>
+  <!-- EN: power claw -->
+  <Mech_Tunneler.tools.left_power_claw.labelNoLocation>TODO</Mech_Tunneler.tools.left_power_claw.labelNoLocation>
   <!-- EN: right power claw -->
   <Mech_Tunneler.tools.right_power_claw.label>sağ güç pençesi</Mech_Tunneler.tools.right_power_claw.label>
+  <!-- EN: power claw -->
+  <Mech_Tunneler.tools.right_power_claw.labelNoLocation>TODO</Mech_Tunneler.tools.right_power_claw.labelNoLocation>
   
 </LanguageData>

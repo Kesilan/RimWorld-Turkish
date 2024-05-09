@@ -323,6 +323,13 @@
   <!-- EN: execute -->
   <ExecuteGuiltyColonist.verb>idam et</ExecuteGuiltyColonist.verb>
   
+  <!-- EN: extract skull -->
+  <ExtractSkull.label>kafatası çıkarma</ExtractSkull.label>
+  <!-- EN: extracting skull of -->
+  <ExtractSkull.gerund>kafatasının çıkarılıyor</ExtractSkull.gerund>
+  <!-- EN: extract -->
+  <ExtractSkull.verb>çıkarma</ExtractSkull.verb>
+  
   <!-- EN: extract trees -->
   <ExtractTree.label>ağaçları ayıkla</ExtractTree.label>
   <!-- EN: extracting -->
@@ -413,6 +420,13 @@
   <HaulMerge.gerund>birleştiriyor</HaulMerge.gerund>
   <!-- EN: merge -->
   <HaulMerge.verb>birleştirme</HaulMerge.verb>
+  
+  <!-- EN: haul to map -->
+  <HaulToPortal.label>TODO</HaulToPortal.label>
+  <!-- EN: loading -->
+  <HaulToPortal.gerund>TODO</HaulToPortal.gerund>
+  <!-- EN: load -->
+  <HaulToPortal.verb>TODO</HaulToPortal.verb>
   
   <!-- EN: load caravan -->
   <HelpGatheringItemsForCaravan.label>kervanı yükle</HelpGatheringItemsForCaravan.label>
@@ -610,13 +624,13 @@
   <!-- EN: strip -->
   <Strip.verb>soyma</Strip.verb>
   
-  <!-- EN: study -->
-  <StudyThing.label>araştır</StudyThing.label>
+  <!-- EN: study archotech structures -->
+  <StudyArchotechStructures.label>TODO</StudyArchotechStructures.label>
   <!-- EN: studying -->
-  <StudyThing.gerund>araştırıyor</StudyThing.gerund>
-  <!-- EN: research -->
-  <StudyThing.verb>araştırma</StudyThing.verb>
-  
+  <StudyArchotechStructures.gerund>TODO</StudyArchotechStructures.gerund>
+  <!-- EN: study -->
+  <StudyArchotechStructures.verb>TODO</StudyArchotechStructures.verb>
+ 
   <!-- EN: take beer out of fermenting barrels -->
   <TakeBeerOutOfFermentingBarrel.label>fermantasyon varillerinden bira çıkar</TakeBeerOutOfFermentingBarrel.label>
   <!-- EN: taking beer from -->

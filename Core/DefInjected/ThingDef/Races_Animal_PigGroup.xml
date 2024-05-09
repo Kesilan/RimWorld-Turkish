@@ -7,8 +7,12 @@
   <Chinchilla.description>Olağanüstü yumuşak kürküyle ünlü küçük ama hızlı bir kemirgen.</Chinchilla.description>
   <!-- EN: left claw -->
   <Chinchilla.tools.left_claw.label>sol pençe</Chinchilla.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Chinchilla.tools.left_claw.labelNoLocation>TODO</Chinchilla.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Chinchilla.tools.right_claw.label>sağ pençe</Chinchilla.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Chinchilla.tools.right_claw.labelNoLocation>TODO</Chinchilla.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Chinchilla.tools.head.label>kafası</Chinchilla.tools.head.label>
   
@@ -20,8 +24,12 @@
   <Deer.race.meatLabel>Geyik eti</Deer.race.meatLabel>
   <!-- EN: left hoof -->
   <Deer.tools.left_hoof.label>sol toynağı</Deer.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Deer.tools.left_hoof.labelNoLocation>TODO</Deer.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Deer.tools.right_hoof.label>sağ toynağı</Deer.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Deer.tools.right_hoof.labelNoLocation>TODO</Deer.tools.right_hoof.labelNoLocation>
   <!-- EN: teeth -->
   <Deer.tools.teeth.label>dişi</Deer.tools.teeth.label>
   <!-- EN: head -->
@@ -34,8 +42,12 @@
   <Gazelle.race.meatLabel>ceylan eti</Gazelle.race.meatLabel>
   <!-- EN: left hoof -->
   <Gazelle.tools.left_hoof.label>sol toynağı</Gazelle.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Gazelle.tools.left_hoof.labelNoLocation>TODO</Gazelle.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Gazelle.tools.right_hoof.label>sağ toynağı</Gazelle.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Gazelle.tools.right_hoof.labelNoLocation>TODO</Gazelle.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Gazelle.tools.head.label>kafası</Gazelle.tools.head.label>
   
@@ -45,8 +57,12 @@
   <Ibex.description>Evcilleştirilmiş keçinin dayanıklı vahşi atası. Dağ keçileri, çoğu antilopun yaşayamayacağı marjinal bir bölgede yaşar, diken ve seyrek dağ bitkileri yiyerek. Çıplak uçurum yüzlerinde ustaca zıplamaları ve şiddetli çarpma saldırıları ile ünlüdürler.</Ibex.description>
   <!-- EN: left hoof -->
   <Ibex.tools.left_hoof.label>sol toynağı</Ibex.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Ibex.tools.left_hoof.labelNoLocation>TODO</Ibex.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Ibex.tools.right_hoof.label>sağ toynağı</Ibex.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Ibex.tools.right_hoof.labelNoLocation>TODO</Ibex.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Ibex.tools.head.label>kafası</Ibex.tools.head.label>
   

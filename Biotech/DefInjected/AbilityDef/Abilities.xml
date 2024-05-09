@@ -12,6 +12,8 @@
   <AnimalWarcall.description>Güçlü bir feryat ve psişik bağlantıyla birkaç saat boyunca düşmanlarınızla savaşması için bir hayvana emir verir.</AnimalWarcall.description>
   <!-- EN: warcall -->
   <AnimalWarcall.verbProperties.label>Savaş Çağrısı</AnimalWarcall.verbProperties.label>
+  <!-- EN: Choose an animal to call -->
+  <AnimalWarcall.verbProperties.mouseTargetingText>TODO</AnimalWarcall.verbProperties.mouseTargetingText>
   
   <!-- EN: bloodfeed -->
   <Bloodfeed.label>Kan emme</Bloodfeed.label>

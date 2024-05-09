@@ -35,11 +35,11 @@
   <!-- EN: installed organ -->
   <InstalledOrgan_Know_Abhorrent.stages.installed_organ.label>yerleştirilmiş organ</InstalledOrgan_Know_Abhorrent.stages.installed_organ.label>
   
-  <!-- EN: organ harvested -->
-  <InstalledOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>organ çıkarılmış</InstalledOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>
+  <!-- EN: installed organ -->
+  <InstalledOrgan_Know_Abhorrent_Mood.stages.installed_organ.label>TODO</InstalledOrgan_Know_Abhorrent_Mood.stages.installed_organ.label>
   <!-- EN: Someone installed an organ. The body should be sacrosanct! -->
-  <InstalledOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>Birisi bir organ yerleştirdi. Beden kutsal olmalı!</InstalledOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>
-  
+  <InstalledOrgan_Know_Abhorrent_Mood.stages.installed_organ.description>TODO</InstalledOrgan_Know_Abhorrent_Mood.stages.installed_organ.description>
+
   <!-- EN: sold organ -->
   <SoldOrgan_Disapproved.stages.sold_organ.label>satılan organ</SoldOrgan_Disapproved.stages.sold_organ.label>
   <!-- EN: I had to sell someone's organ. I don't approve of such transactions. -->
@@ -48,11 +48,11 @@
   <!-- EN: sold organ -->
   <SoldOrgan_Know_Disapproved.stages.sold_organ.label>satılan organ</SoldOrgan_Know_Disapproved.stages.sold_organ.label>
   
-  <!-- EN: organ harvested -->
-  <SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.label>organ çıkarılmış</SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.label>
+  <!-- EN: organ sold -->
+  <SoldOrgan_Know_Horrible_Mood.stages.organ_sold.label>TODO</SoldOrgan_Know_Horrible_Mood.stages.organ_sold.label>
   <!-- EN: Someone sold an organ. It's horrible to trade human parts like machinery. -->
-  <SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.description>Biri organ sattı. Makine gibi insan parçalarının ticaretini yapmak korkunç.</SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.description>
-  
+  <SoldOrgan_Know_Horrible_Mood.stages.organ_sold.description>TODO</SoldOrgan_Know_Horrible_Mood.stages.organ_sold.description>
+ 
   <!-- EN: traded organ -->
   <TradedOrgan_Abhorrent.stages.traded_organ.label>takas edilen organ</TradedOrgan_Abhorrent.stages.traded_organ.label>
   <!-- EN: I had to trade someone's organ. It's an abhorrent violation of everything I believe. -->
@@ -61,9 +61,9 @@
   <!-- EN: traded organ -->
   <TradedOrgan_Know_Abhorrent.stages.traded_organ.label>takas edilen organ</TradedOrgan_Know_Abhorrent.stages.traded_organ.label>
   
-  <!-- EN: organ harvested -->
-  <TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>organ çıkarıldı</TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>
+  <!-- EN: organ traded -->
+  <TradedOrgan_Know_Abhorrent_Mood.stages.organ_traded.label>TODO</TradedOrgan_Know_Abhorrent_Mood.stages.organ_traded.label>
   <!-- EN: Someone traded an organ! What an abhorrent, disgusting act. -->
-  <TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>Biri organ ticareti yaptı! Ne kadar iğrenç, iğrenç bir davranış.</TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>
-  
+  <TradedOrgan_Know_Abhorrent_Mood.stages.organ_traded.description>TODO</TradedOrgan_Know_Abhorrent_Mood.stages.organ_traded.description>
+
 </LanguageData>

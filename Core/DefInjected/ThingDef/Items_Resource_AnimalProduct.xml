@@ -76,4 +76,9 @@
   <!-- EN: Milk from an animal.\n\nMilk can be fed to human babies. -->
   <Milk.description>Hayvandan elde edilen süt.</Milk.description>
   
+  <!-- EN: skull -->
+  <Skull.label>kafatası</Skull.label>
+  <!-- EN: A human skull. -->
+  <Skull.description>Bir insan kafatası.</Skull.description>
+  
 </LanguageData>

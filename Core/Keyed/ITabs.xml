@@ -48,8 +48,14 @@
   <TabFormingCaravan>Kervan</TabFormingCaravan>
   <!-- EN: Contents -->
   <TabTransporterContents>İçerikler</TabTransporterContents>
+  <!-- EN: Travel -->
+  <TabMapPortalContents>TODO</TabMapPortalContents>
   <!-- EN: Contents -->
   <TabCasketContents>İçerikler</TabCasketContents>
+  <!-- EN: Details -->
+  <TabBookContents>TODO</TabBookContents>
+  <!-- EN: Study -->
+  <TabStudyNotesContents>TODO</TabStudyNotesContents>
   <!-- EN: Auto-cut -->
   <TabWindTurbineAutoCut>Oto-kes</TabWindTurbineAutoCut>
   
@@ -82,6 +88,8 @@
   <PasteBillTip>Yapıştır</PasteBillTip>
   <!-- EN: can't add more -->
   <PasteBillTip_LimitReached>Daha fazla eklenemiyor</PasteBillTip_LimitReached>
+  <!-- EN: Finishes in -->
+  <FinishesIn>içinde bitirir</FinishesIn>
 
   <!-- Guest/prisoner tab -->
   <!-- EN: Resistance -->
@@ -104,9 +112,9 @@
   <NotWhileAsleep>Uyurken olmaz</NotWhileAsleep>
   <!-- EN: Breaking out now -->
   <CurrentlyPrisonBreaking>Firar ediyor</CurrentlyPrisonBreaking>
-  <!-- EN: Multiplier for door count -->
+  <!-- EN: Door count -->
   <FactorForDoorCount>Kapı sayısı çarpanı</FactorForDoorCount>
-  <!-- EN: Multiplier for movement -->
+  <!-- EN: Movement -->
   <FactorForMovement>Hareket çarpanı</FactorForMovement>
   <!-- EN: Slave price -->
   <SlavePrice>Köle değeri</SlavePrice>
@@ -136,8 +144,8 @@
   <NonRecruitable>sarsılmaz sadakat</NonRecruitable>
   <!-- EN: This prisoner is so unwaveringly loyal to their home that they refuse to be recruited entirely. -->
   <NonRecruitableTip>Bu mahkûm, evlerine o kadar sarsılmaz bir şekilde sadık ki, işe alınmayı tamamen reddediyorlar.</NonRecruitableTip>
-  <!-- EN: Their loyalty extends to their beliefs and they cannot be converted. -->
-  <NonRecruitableTipCannotConvert>Sadakatleri inançlarına kadar uzanır ve dönüştürülemezler.</NonRecruitableTipCannotConvert>
+  <!-- EN: What type of medicine can be given to this prisoner. -->
+  <MedicineQualityDescriptionPrisoner>TODO</MedicineQualityDescriptionPrisoner>
 
 
 
@@ -213,13 +221,19 @@
   <PainFactor>Acı</PainFactor>
   <!-- EN: Prevents infection -->
   <PreventsInfection>Enfeksiyonu önleme</PreventsInfection>
-  <!-- EN: Self-tend -->
-  <SelfTend>Kendi kendine tedavi</SelfTend>
+  <!-- EN: Allow self-tend -->
+  <AllowSelfTend>TODO</AllowSelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <SelfTendTip>Kendi kendine tedavi etkinken {0} otomatik olarak kendilerini normal verimlilikte {1} seviyesinde tedavi edebilirler.</SelfTendTip>
+  <AllowSelfTendTip>TODO</AllowSelfTendTip>
   <!-- EN: death in {0} -->
   <DeathIn>{0}} içinde ölecek</DeathIn>
-  
+  <!-- EN: Allow medicine -->
+  <AllowMedicine>TODO</AllowMedicine>
+  <!-- EN: What type of medicine can be given to this person. -->
+  <MedicineQualityDescription>TODO</MedicineQualityDescription>
+  <!-- EN: What type of food can be given to this person. -->
+  <FoodRestrictionDescription>TODO</FoodRestrictionDescription>
+
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
   <None>Yok</None>
@@ -268,7 +282,7 @@
   <Lent>{FACTION_name} adlı fraksiyona ödünç verildi, {1} içinde dönecek.</Lent>
   <!-- EN: Missing -->
   <Missing>Kayıp</Missing>
-  <!-- EN: Slave -->
+  <!-- EN: slave -->
   <Slave>köle</Slave>
   <!-- EN: Faction leader -->
   <FactionLeader>Fraksiyon lideri</FactionLeader>
@@ -422,5 +436,17 @@
 
   <!-- EN: Auto-cut blocking plants -->
   <WindTurbineAutoCut_EnabledCheckbox>Rüzgar türbinini engelleyen otomatik kesilen bitkiler</WindTurbineAutoCut_EnabledCheckbox>
+  
+  <!-- Study tab  -->
+  <!-- EN: Study progress -->
+  <StudyNotesTab_StudyProgress>TODO</StudyNotesTab_StudyProgress>
+  <!-- EN: Ongoing -->
+  <StudyNotesTab_StudyProgressOngoing>TODO</StudyNotesTab_StudyProgressOngoing>
+  <!-- EN: Completed -->
+  <StudyNotesTab_StudyProgressCompleted>TODO</StudyNotesTab_StudyProgressCompleted>
+  <!-- EN: Toggle study -->
+  <StudyNotesTab_ToggleStudy>TODO</StudyNotesTab_ToggleStudy>
+  <!-- EN: No discoveries yet -->
+  <StudyNotesTab_NoDiscoveries>TODO</StudyNotesTab_NoDiscoveries>
 
 </LanguageData>

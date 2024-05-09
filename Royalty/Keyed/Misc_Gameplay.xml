@@ -24,7 +24,7 @@
   <PsycastNeurotrainerDescription>Belirli bir psişik gücü eğiten tek kullanımlık süper doz mekanik mekanizma.\n\nDoz, gözün yörüngesinden uygulanır. Bir kez beyne salındığında, mekanizmalar belirli bir yeteneğin bilgisini oluşturur ve gerektiğinde kendilerini nöral dokuya dönüştürür.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION}</PsycastNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} power. -->
   <AbilityNeurotrainerUsed>{USER_labelShort}, {1} gücünü öğrenmek için nöroeğitmen kullandı.</AbilityNeurotrainerUsed>
-  <!-- EN: Requires psylink -->
+  <!-- EN: requires psylink -->
   <PsycastNeurotrainerNoPsylink>psylink gerektirir</PsycastNeurotrainerNoPsylink>
   <!-- EN: {USER_labelShort} already knows {1}. -->
   <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort}, {1}'yi zaten biliyor.</PsycastNeurotrainerAbilityAlreadyLearned>
@@ -162,6 +162,8 @@
   <AnimaLinkingExplanationBase>Anima bağlama töreni, daha fazla katılımcıyla daha güçlüdür. Ne kadar çok insan katılırsa, tören o kadar az zaman alır ve daha fazla anima otu büyür.\n\n{0} ek katılımcıyla, törenin sonunda {1} anima otu yenilenir.</AnimaLinkingExplanationBase>
   <!-- EN: Not all required cargo is loaded yet! -->
   <ShuttleRequiredItemsNotSatisfied>Gerekli tüm kargolar henüz yüklenmedi!</ShuttleRequiredItemsNotSatisfied>
+  <!-- EN: Cannot load {0_labelShort} -->
+  <CannotLoadIntoShuttle>TODO</CannotLoadIntoShuttle>
 
   <!-- EN: no heat to dump. -->
   <AbilityNoEntropyToDump>boşaltmak için ısı yok.</AbilityNoEntropyToDump>

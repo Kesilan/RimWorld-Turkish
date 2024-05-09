@@ -8,8 +8,11 @@
   <Explosion.label>patlama</Explosion.label>
   
   <!-- EN: flying -->
-  <PawnJumper.label>uçan</PawnJumper.label>
+  <PawnFlyer.label>TODO</PawnFlyer.label>
   
+  <!-- EN: disrupted soil -->
+  <PawnGroundSpawner.label>TODO</PawnGroundSpawner.label>
+
   <!-- EN: proximity trigger -->
   <RadialTrigger.label>yakınlık tetikleyici</RadialTrigger.label>
   
